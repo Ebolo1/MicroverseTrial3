@@ -1,1 +1,32 @@
-h1
+body{
+    margin: 60px;
+  }
+  .container-fluid{
+    background-color:#EEEEEE;
+  }
+  .header{
+    text-align: center;
+  }
+  #image{
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  #img-text{
+    background-color: white !important;
+  }
+  .main{
+    max-width: 660px;
+    margin: 0 auto;
+  }
+  li span{
+    font-weight: bold;
+  }
+  .footer{
+    text-align:center;
+  }
+  #ack{
+    text-align:center;
+  }
